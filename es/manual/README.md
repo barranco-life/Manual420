@@ -4,7 +4,7 @@ Manual abierto sobre cultura 4/20, legalidad, convivencia y organización respon
 *La información es poder.*
 
 > [!NOTE]
-> Este es un primer borrador serio, todavía en construcción. Si quieres aportar links, archivos, comentarios, contactos, antecedentes, correcciones o ideas de nuevas secciones, puedes hacerlo por [Issues](../../issues) *(público)*, por email a [manual420@barranco.life](mailto:manual420@barranco.life) *(privado)* o por WhatsApp: [72041572](https://api.whatsapp.com/send?phone=59172041572) *(privado)*.
+> Este es un primer borrador serio, todavía en construcción. Si quieres aportar links, archivos, comentarios, contactos, antecedentes, correcciones o ideas de nuevas secciones, puedes hacerlo por [Issues](../../issues) *(público)*, por [email](mailto:manual420@barranco.life) o por [WhatsApp](https://api.whatsapp.com/send?phone=59172041572).
 
 > [!IMPORTANT]
 > Este manual tiene un enfoque cívico, cultural e informativo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008** y su reglamento [1](#fuente-1) [2](#fuente-2), por lo que cualquier persona debe actuar con pleno conocimiento del marco legal vigente y bajo su propia responsabilidad individual.
