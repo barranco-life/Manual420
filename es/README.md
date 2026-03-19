@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "Manual 4/20"
+permalink: /
+---
 
 # Manual 4/20
 
