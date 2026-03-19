@@ -13,3 +13,7 @@ show_downloads: false
 github:
   is_project_page: false
   is_user_page: false
+
+# Opcional pero sano para rutas en Pages
+url: "https://manual420.barranco.life"
+baseurl: ""
