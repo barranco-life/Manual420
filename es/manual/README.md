@@ -1,13 +1,11 @@
-# Manual 4/20
+# Manual 4/20 🌿
 
 Manual abierto sobre cultura 4/20, legalidad, convivencia y organización responsable. 🌿  
 *La información es poder.*
 
-> [!NOTE]
-> Este es un primer borrador serio, todavía en construcción. Si quieres aportar links, archivos, comentarios, contactos, antecedentes, correcciones o ideas de nuevas secciones, puedes hacerlo por [Issues](../../issues) *(público)*, por [email](mailto:manual420@barranco.life) o por [WhatsApp](https://api.whatsapp.com/send?phone=59172041572).
+> 🌿 Esta es una versión inicial abierta del manual. Si quieres aportar links, archivos, comentarios, contactos, antecedentes, correcciones o ideas de nuevas secciones, puedes hacerlo por [Issues](../../issues) *(público)*, por [email](mailto:manual420@barranco.life) *(privado)* o por [WhatsApp](https://api.whatsapp.com/send?phone=59172041572) *(privado)*.
 
-> [!IMPORTANT]
-> Este manual tiene un enfoque cívico, cultural e informativo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008** y su reglamento [1](#fuente-1) [2](#fuente-2), por lo que cualquier persona debe actuar con pleno conocimiento del marco legal vigente y bajo su propia responsabilidad individual.
+> ⚠️ Este manual tiene un enfoque cívico, cultural e informativo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008** y su reglamento [1](#fuente-1) [2](#fuente-2), por lo que cualquier persona debe actuar con pleno conocimiento del marco legal vigente y bajo su propia responsabilidad individual.
 
 ## Contenidos
 
@@ -37,7 +35,7 @@ Manual abierto sobre cultura 4/20, legalidad, convivencia y organización respon
 
 ## Qué es este manual
 
-**Manual 4/20** es una guía abierta, cívica y educativa sobre cultura 4/20, legalidad, convivencia, lectura pública del fenómeno y organización responsable de encuentros.
+**Manual 4/20 🌿** es una guía abierta, cívica y educativa sobre cultura 4/20, legalidad, convivencia, lectura pública del fenómeno y organización responsable de encuentros.
 
 Su intención no es hacer apología del delito ni romantizar sin criterio una realidad compleja. Su intención es reunir información útil, ordenar contexto, reducir estigmas y ayudar a que la conversación pública sobre estos temas pueda darse con más madurez, libertad y límites claros.
 
@@ -49,7 +47,7 @@ Aunque este trabajo nace desde Bolivia y parte importante de su contenido será 
 
 Este manual quiere ser útil para:
 
-- Personas que desean entender mejor qué es el 4/20 más allá del estigma o la caricatura.
+- Personas que desean entender mejor qué es el 4/20 más allá del estigma, los prejuicios o las reducciones simplistas.
 - Ciudadanos que buscan una base inicial para informarse sobre cannabis, legalidad y convivencia.
 - Voluntarios, artistas, periodistas, espacios anfitriones y comunidades que quieran aportar o participar con mayor criterio.
 - Organizadores que necesitan pensar encuentros culturalmente defendibles, legalmente prudentes y socialmente persuasivos.
@@ -142,7 +140,7 @@ Entre ellos:
 - **Uso industrial:** Cáñamo, fibras, textiles, materiales, alimentos, cosmética y otros usos no centrados en el consumo recreativo.
 - **Interés económico de la legalización:** Cadenas productivas, empleo, recaudación, formalización, innovación y límites reales del argumento económico.
 - **Salud pública y educación:** Cómo distintos países han intentado educar a su población una vez abierto el debate o aprobadas ciertas regulaciones.
-- **Lectura pública del fenómeno:** Cómo pasar de la caricatura o el tabú a una comprensión más madura de lo que realmente está en juego.
+- **Lectura pública del fenómeno:** Cómo pasar de los prejuicios o el tabú a una comprensión más madura de lo que realmente está en juego.
 
 La idea es que una persona en Bolivia pueda comenzar aquí y encontrar, en un solo lugar, una base cada vez más útil para entender el tema con mayor criterio. **La información es poder**, especialmente en un contexto donde todavía existe mucha confusión, incluso dentro de la propia cultura 4/20.
 
@@ -481,7 +479,7 @@ Esto conecta directamente con el espíritu que este manual quiere defender: una 
 
 En Bolivia y en otros países, muchas de las peores conversaciones sobre sustancias parten de una hipocresía de base: se toleran prácticas muy dañinas cuando son culturalmente normales, y se satanizan otras sin educación suficiente ni matices.
 
-Una política o cultura más inteligente no debería negar riesgos, pero tampoco esconder que la **información** y la **educación pública** suelen reducir más daño que la simple moralización. Por eso esta sección no busca cerrar el tema con sentencias absolutas, sino abrir una base más útil: hablar de salud sin propaganda, de riesgos sin caricatura y de límites sin puritanismo.
+Una política o cultura más inteligente no debería negar riesgos, pero tampoco esconder que la **información** y la **educación pública** suelen reducir más daño que la simple moralización. Por eso esta sección no busca cerrar el tema con sentencias absolutas, sino abrir una base más útil: hablar de salud sin propaganda, de riesgos sin simplificaciones y de límites sin puritanismo.
 
 [Volver al índice](#contenidos)
 
@@ -489,7 +487,7 @@ Una política o cultura más inteligente no debería negar riesgos, pero tampoco
 
 A medida que el debate sobre cannabis madure en Bolivia, también hará falta madurar la forma en que se asiste a un **encuentro, celebración o evento 4/20** y la forma en que se organiza. No basta con tener buena intención. Hace falta **criterio**, **cuidado del espacio**, **responsabilidad individual** y una lectura clara del marco legal vigente.
 
-Esta sección dialoga de manera general con la lógica del repositorio del [Encuentro Nacional 4/20](https://github.com/barranco-life/420), pero desde una perspectiva cívica y educativa. No busca convertir cada encuentro en una operación rígida ni en un festival burocrático. Busca algo más simple y más útil: ayudar a que existan espacios y celebraciones **culturalmente defendibles, legalmente prudentes y socialmente persuasivos**.
+Esta sección dialoga de manera general con la lógica del sitio del [Encuentro Nacional 4/20²⁶ 🌿](https://420.barranco.life), pero desde una perspectiva cívica y educativa. No busca convertir cada encuentro en una operación rígida ni en un festival burocrático. Busca algo más simple y más útil: ayudar a que existan espacios y celebraciones **culturalmente defendibles, legalmente prudentes y socialmente persuasivos**.
 
 También conviene dejar algo claro desde el inicio: este manual no da instrucciones para vulnerar la ley ni para evadir controles. Si una persona decide presentarse a un evento de este tipo, debe entender que cualquier acto contrario al marco legal vigente corre bajo su propia responsabilidad. Y si algo entra en conflicto con las reglas del espacio anfitrión o con la ley, lo correcto no es forzar la situación, sino evitar ingresar con ello o retirarse del lugar.
 
@@ -513,7 +511,7 @@ En otras palabras: un encuentro así no debería parecerse a una lógica de “h
 
 Organizar un encuentro 4/20 en Bolivia exige todavía más cuidado que asistir a uno. No se trata solo de convocar gente, artistas o emprendimientos. Se trata de diseñar un espacio que no dependa del caos para funcionar.
 
-A la luz de la experiencia acumulada en espacios anfitriones como **Proyecto Cultural Barranco**, y de la lógica general del repositorio [420](https://github.com/barranco-life/420), hay varios principios que conviene tener presentes desde el inicio:
+A la luz de la experiencia acumulada en espacios anfitriones como **Proyecto Cultural Barranco**, y de la lógica general del sitio [420.barranco.life](https://420.barranco.life), hay varios principios que conviene tener presentes desde el inicio:
 
 - Definir claramente el tipo de espacio anfitrión y sus límites reales.
 - Trabajar con reglas de convivencia visibles y sobrias.
@@ -560,7 +558,7 @@ Tanto para asistentes como para organizadores, hay ciertos errores que vuelven u
 
 ### Referencia viva
 
-Más adelante, esta sección puede dialogar de forma más directa con materiales operativos como [`VENUES.md`](https://github.com/barranco-life/420/blob/main/es/VENUES.md) del repositorio [420](https://github.com/barranco-life/420), de manera que el manual mantenga una función cívica y general, mientras el otro repo conserva la documentación más ligada al Encuentro y a los espacios anfitriones.
+Más adelante, esta sección puede dialogar de forma más directa con documentos aplicados del [Encuentro Nacional 4/20²⁶ 🌿](https://420.barranco.life), especialmente los dedicados a espacios anfitriones, de manera que el manual mantenga una función cívica y general, mientras el otro sitio conserva la documentación más ligada al Encuentro y a sus sedes.
 
 Por ahora, el punto principal es este: **asistir bien y organizar bien también son parte de la desestigmatización**. Un encuentro que se cuida, se autorregula y respeta sus propios límites no solo protege mejor a su comunidad; también comunica mejor su legitimidad pública.
 
@@ -585,7 +583,7 @@ Por eso, este manual busca cumplir una función complementaria:
 
 Este manual se construirá siguiendo, al menos, estos principios:
 
-- **Sobriedad:** evitar tono panfletario, caricaturesco o innecesariamente confrontacional.
+- **Sobriedad:** evitar tono panfletario, simplista o innecesariamente confrontacional.
 - **Utilidad:** priorizar información que ayude a orientarse, comprender y actuar con más criterio.
 - **Cuidado:** no publicar contenido que funcione como guía para delinquir o evadir la ley.
 - **Citación:** tender a respaldar afirmaciones con fuentes verificables.
@@ -692,3 +690,5 @@ Este manual no está cerrado. Está naciendo.
 La idea no es aparentar una autoridad total desde la primera versión, sino construir una base honesta, útil y cada vez mejor documentada para una conversación que en Bolivia y la región todavía necesita mucha más claridad, seriedad y madurez.
 
 [Volver al índice](#contenidos)
+
+https://github.com/barranco-life/Manual420/blob/main/es/manual/README.md

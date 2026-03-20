@@ -1,15 +1,14 @@
-# Manual 4/20
+# Manual 4/20 🌿
 
-Puerta de entrada en español al proyecto **Manual 4/20**. 🌿
+Puerta de entrada en español al proyecto **Manual 4/20 🌿**.
 
-> [!NOTE]
-> El desarrollo principal del contenido vive en el manual. Si quieres compartir links, archivos, comentarios, contactos, ideas de capítulos o correcciones, puedes hacerlo por [Issues](../issues) *(público)*, por [email](mailto:manual420@barranco.life) *(privado)* o por [WhatsApp](https://api.whatsapp.com/send?phone=59172041572) *(privado)*.
+> 🌿 El desarrollo principal del contenido vive en el manual. Si quieres compartir links, archivos, comentarios, contactos, ideas de capítulos o correcciones, puedes hacerlo por [Issues](../issues) *(público)*, por [email](mailto:manual420@barranco.life) *(privado)* o por [WhatsApp](https://api.whatsapp.com/send?phone=59172041572) *(privado)*.
 
 ## Qué encontrarás aquí
 
-**Manual 4/20** es una guía abierta, cívica y educativa sobre cultura 4/20, legalidad, convivencia y organización responsable de encuentros.
+**Manual 4/20 🌿** es una guía abierta, cívica y educativa sobre cultura 4/20, legalidad, convivencia y organización responsable de encuentros.
 
-Nace como una pieza con vida propia dentro del ecosistema de [Proyecto Cultural Barranco](https://barranco.life) y en diálogo con el repositorio del [Encuentro Nacional 4/20²⁶ Pro-Legalización - Celebración cultural replicable de ingreso y participación libre](https://github.com/barranco-life/420), pero no depende de un evento o edición específica para existir.
+Nace como una pieza con vida propia dentro del ecosistema de [Proyecto Cultural Barranco](https://barranco.life) y en diálogo con el sitio del [Encuentro Nacional 4/20²⁶ 🌿](https://420.barranco.life), pero no depende de un evento o edición específica para existir.
 
 Esta página funciona como puerta de entrada breve. El desarrollo principal del contenido, las secciones en crecimiento y la versión pública navegable viven en la sección del manual.
 
@@ -17,7 +16,7 @@ Esta página funciona como puerta de entrada breve. El desarrollo principal del 
 
 Este proyecto busca ayudar a construir una conversación más madura, libre y con límites claros sobre el 4/20, la legalización, la convivencia y la cultura que existe alrededor de estas fechas y encuentros.
 
-También busca reunir, ordenar y hacer accesible información útil para ciudadanos, voluntarios, espacios anfitriones, periodistas y otras personas que quieran comprender mejor el tema sin caer en estigmas, caricaturas o desinformación.
+También busca reunir, ordenar y hacer accesible información útil para ciudadanos, voluntarios, espacios anfitriones, periodistas y otras personas que quieran comprender mejor el tema sin caer en estigmas, prejuicios o desinformación.
 
 ## Dónde leer el manual
 
@@ -67,6 +66,8 @@ Se podrán integrar traducciones o versiones en otros idiomas si existe interés
 
 ## Enlaces clave
 
-- [Repo del Encuentro Nacional 4/20²⁶](https://github.com/barranco-life/420)
+- [Sitio del Encuentro Nacional 4/20²⁶ 🌿](https://420.barranco.life)
 - [Proyecto Cultural Barranco](https://barranco.life)
 - [GitHub Issues](../issues)
+
+https://github.com/barranco-life/Manual420/blob/main/es/README.md
